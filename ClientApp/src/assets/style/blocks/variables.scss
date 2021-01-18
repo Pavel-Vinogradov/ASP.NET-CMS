@@ -99,6 +99,56 @@ $nav-tabs-inverted-link-active-border-color: $nav-tabs-inverted-link-active-bg $
 $progress-bg: $gray-400;
 
 
+
+$defaultFontFamily: 'Montserrat', sans-serif;
+$defaultFontSize: 15px;
+$defaultFontWeight: 400;
+
+$min_b: 280px;
+$max_b: 1440px;
+$container: minmax($min_b, $max_b);
+
+$blue: #1464ac;
+$blue_light: #4893d6;
+$blue_lighter: #6ea4d6;
+$blue_dark: #2b5981;
+$blue_darker: #063e70;
+
+$yellow: #ff9a0c;
+$yellow_light: #ffb449;
+$yellow_lighter: #ffc87a;
+$yellow_dark: #bf8737;
+$yellow_darker: #a66304;
+
+$green: #09b372;
+$green_light: #3ed99e;
+$green_lighter: #67d9ae;
+$green_dark: #268662;
+$green_darker: #037449;
+
+$error: #e20338;
+
+$gray-1: #f8f9fa;
+$gray-2: #e9ecef;
+$gray-3: #dee2e6;
+$gray-4: #ced4da;
+$gray-5: #adb5bd;
+$gray-6: #6c757d;
+$gray-7: #495057;
+$gray-8: #343a40;
+$gray-9: #212529;
+
+$white: #ffffff;
+$black: #000000;
+
+$shadow-2: 0 1px 1px rgba(black, 0.15), 0 2px 2px rgba(black, 0.15);
+$shadow-4: 0 1px 1px rgba(black, 0.15), 0 2px 2px rgba(black, 0.15),
+0 4px 4px rgba(black, 0.15), 0 8px 8px rgba(black, 0.15);
+$shadow-6: 0 1px 1px rgba(black, 0.15), 0 2px 2px rgba(black, 0.15),
+0 4px 4px rgba(black, 0.15), 0 8px 8px rgba(black, 0.15),
+0 16px 16px rgba(black, 0.15), 0 32px 32px rgba(black, 0.15);
+
+
 $shadow-2: 0 1px 1px rgba(black, 0.15), 0 2px 2px rgba(black, 0.15);
 $shadow-4: 0 1px 1px rgba(black, 0.15), 0 2px 2px rgba(black, 0.15),
 0 4px 4px rgba(black, 0.15), 0 8px 8px rgba(black, 0.15);
