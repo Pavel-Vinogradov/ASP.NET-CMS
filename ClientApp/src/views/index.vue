@@ -1,7 +1,5 @@
 <template>
-  <main>
-    
-  </main>
+  <main></main>
 </template>
 
 <script>
@@ -10,5 +8,3 @@ import Component from 'vue-class-component'
 @Component
 export default class Index extends Vue {}
 </script>
-
- 

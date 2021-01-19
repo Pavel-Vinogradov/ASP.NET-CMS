@@ -1,8 +1,6 @@
 <template>
   <div class="page__admin">
-    <div class="container">
-
-    </div> 
+    <div class="container"></div>
   </div>
 </template>
 
@@ -12,6 +10,6 @@ import Component from 'vue-class-component'
 
 @Component
 export default class Admin extends Vue {
+
 }
 </script>
-
